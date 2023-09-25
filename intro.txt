@@ -1,3 +1,5 @@
 hello from GitHub!
+Bine ati venit.
+Linie simpla.
 Bine ati venit .
 Linie noua.
